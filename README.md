@@ -1,4 +1,4 @@
-# UnityPractice_05
+# UnityPractice_05_fpshorror
 Udemy course practice project.
 
 玩家扮演一名槍手、在伸手不見五指的森林裡射殺所有殭屍
